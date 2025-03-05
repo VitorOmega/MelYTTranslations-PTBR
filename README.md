@@ -37,7 +37,7 @@ Some videos: English (United States) - [Titles & Descriptions](Titles%20&%20Desc
 **If your language has not existed in the main repo yet:** Create a folder for your language in the `Subtitles/Translated` folder following this template: `ISO3166-1_Code - LanguageName (Country)`. Real world example: `ro_RO - Romanian (Romania)`.
 **If your language exists:** Proceed to the next step.
 
-**Step 5:** Add your translations to said folder. Although optional, it would be ideal to include a link to the translated video in the commit description. Tracking what has already been translated is easier this way for future improvements to the .
+**Step 5:** Add your translations to said folder. Although optional, it would be ideal to include a link to the translated video in the commit description. Tracking what has already been translated is easier this way for future improvements to the translations.
 
 **Step 6:** Once you're done with translating a video, create a pull request on the main repo, adding a short description to the content that you wish to be sent to the main repo.
 
