@@ -1,0 +1,286 @@
+1
+00:00:00,400 --> 00:00:01,950
+(Sparkle~)
+
+2
+00:00:05,599 --> 00:00:08,416
+Vtuber Self Introduction Q&A
+
+3
+00:00:08,416 --> 00:00:09,433
+(Yaaay~)
+
+4
+00:00:09,433 --> 00:00:10,366
+Well, then. Let's go!
+
+5
+00:00:10,366 --> 00:00:11,199
+Ready, set!
+
+6
+00:00:11,199 --> 00:00:12,150
+What's your name?
+
+7
+00:00:12,150 --> 00:00:13,199
+Valentine Melori (LN-FN)
+
+8
+00:00:13,199 --> 00:00:14,099
+How would you liked to be addressed?
+
+9
+00:00:14,099 --> 00:00:15,150
+Melo-chan!
+
+10
+00:00:15,150 --> 00:00:17,016
+What type of VTuber are you?
+
+11
+00:00:17,016 --> 00:00:18,933
+A Tech Wizardess VTuber
+
+12
+00:00:18,933 --> 00:00:19,666
+When's your birthday?
+
+13
+00:00:19,666 --> 00:00:20,899
+July 31st
+
+14
+00:00:20,899 --> 00:00:21,616
+How old are you?
+
+15
+00:00:21,616 --> 00:00:22,716
+Take a guess~ (Y2K)
+
+16
+00:00:22,716 --> 00:00:23,566
+What's your gender?
+
+17
+00:00:23,566 --> 00:00:24,616
+I'm a female. (Transgender)
+
+18
+00:00:24,616 --> 00:00:25,500
+How tall are you?
+
+19
+00:00:25,500 --> 00:00:26,516
+168cm (iroha, wordplay)
+
+20
+00:00:26,516 --> 00:00:27,366
+Where are you from?
+
+21
+00:00:27,366 --> 00:00:28,433
+It's a secret.
+
+22
+00:00:28,433 --> 00:00:29,283
+What's your charming point?
+
+23
+00:00:29,283 --> 00:00:30,383
+Being in chill-mode.
+
+24
+00:00:30,383 --> 00:00:32,316
+I know this is sudden, please do an impression!
+
+25
+00:00:32,316 --> 00:00:34,166
+Bi-... big bwothwer?
+*Different vibes, but you still get it right?
+
+26
+00:00:34,166 --> 00:00:35,133
+Where are you active?
+
+27
+00:00:35,133 --> 00:00:36,083
+On YouTube!
+
+28
+00:00:36,083 --> 00:00:37,016
+What's your starting greeting?
+
+29
+00:00:37,016 --> 00:00:38,016
+Kon-Melo!
+
+30
+00:00:38,016 --> 00:00:38,933
+What's your ending greeting?
+
+31
+00:00:38,933 --> 00:00:39,916
+Otsu-Melo!
+
+32
+00:00:39,916 --> 00:00:40,766
+What're your fan emojis?
+
+33
+00:00:40,766 --> 00:00:41,833
+💫 🪄　（Sparkling Bling~!）
+
+34
+00:00:41,833 --> 00:00:42,733
+What's your Live hashtag?
+
+35
+00:00:42,733 --> 00:00:43,700
+Don't have one yet.
+
+36
+00:00:43,700 --> 00:00:44,549
+What's your fanart hashtag?
+
+37
+00:00:44,549 --> 00:00:45,633
+#JankyMelori
+
+38
+00:00:45,633 --> 00:00:46,450
+What's your fan name?
+
+39
+00:00:46,450 --> 00:00:47,516
+Fellow Apprentices
+
+40
+00:00:47,516 --> 00:00:48,416
+What's your favorite color?
+
+41
+00:00:48,416 --> 00:00:49,416
+Pink (#FFAAFF)
+
+42
+00:00:49,416 --> 00:00:50,366
+What's your hobby?
+
+43
+00:00:50,366 --> 00:00:51,333
+Information Technology.
+
+44
+00:00:51,333 --> 00:00:52,299
+What are you good at?
+
+45
+00:00:52,299 --> 00:00:53,216
+Causing bugs
+
+46
+00:00:53,216 --> 00:00:55,500
+In a phrase, confess your love!
+
+47
+00:00:55,500 --> 00:00:57,000
+I... I LOVE YOU!
+
+48
+00:00:57,000 --> 00:00:57,950
+What's your favorite food?
+
+49
+00:00:57,950 --> 00:00:58,916
+Ramen.
+
+50
+00:00:58,916 --> 00:00:59,833
+What's your favorite drink?
+
+51
+00:00:59,833 --> 00:01:00,816
+Tea.
+
+52
+00:01:00,816 --> 00:01:01,799
+What's your favorite manga?
+
+53
+00:01:01,799 --> 00:01:02,750
+Flying Witch!
+
+54
+00:01:02,750 --> 00:01:03,649
+What's your favorite anime?
+
+55
+00:01:03,649 --> 00:01:04,633
+GochiUsa (Is The Order A Rabbit?)
+
+56
+00:01:04,633 --> 00:01:05,616
+What's your favorite game?
+
+57
+00:01:05,616 --> 00:01:06,549
+Genshin Impact
+
+58
+00:01:06,549 --> 00:01:07,450
+What's your favorite music?
+
+59
+00:01:07,450 --> 00:01:08,483
+Anything goes for me.
+
+60
+00:01:08,483 --> 00:01:09,400
+What're your weakness?
+
+61
+00:01:09,400 --> 00:01:10,316
+My Japanese (knowledge).
+
+62
+00:01:10,316 --> 00:01:11,349
+Who do you admire?
+
+63
+00:01:11,349 --> 00:01:12,233
+IRyS!
+
+64
+00:01:12,233 --> 00:01:13,183
+What's your dream?
+
+65
+00:01:13,183 --> 00:01:14,166
+Money!
+
+66
+00:01:14,166 --> 00:01:16,066
+Lastly, got any words for everyone? Let's go!♪
+
+67
+00:01:16,066 --> 00:01:17,966
+"Ta'da! I got a story to tell,
+
+68
+00:01:17,966 --> 00:01:19,900
+Care to give it an ear?"
+
+69
+00:01:19,900 --> 00:01:21,783
+Be sure to check out Melori's channel~
+
+70
+00:01:21,783 --> 00:01:24,133
+Let's play together someday!
+
+71
+00:01:24,133 --> 00:01:27,966
+(Yaaay~)
+See yaaa~
+

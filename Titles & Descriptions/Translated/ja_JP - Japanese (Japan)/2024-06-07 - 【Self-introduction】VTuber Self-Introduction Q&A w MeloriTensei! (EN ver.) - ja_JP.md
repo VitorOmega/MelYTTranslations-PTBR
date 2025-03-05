@@ -1,0 +1,25 @@
+# Title
+(翻訳あり！）【自己紹介】Vtuber一問一答自己紹介【転性メロリ】（英語版）<br>
+
+# Description
+まあ…二年ぶりに、やったね！よろしくお願いいたします！^~^<br>
+
+日本語版こちら！：https://youtu.be/A4VE8Giqiko<br>
+
+本家様 ー 海月シェル（神様）：https://www.youtube.com/watch?v=V4L3YuhCUEY<br>
+BG - OwORikos様: https://ko-fi.com/s/f16724d141<br>
+
+もっとメロのことこちら： https://pincushion.etersia.moe/@MeloriTensei/<br>
+ブロックと動画を早くみたい？Ko-fiを見てください!<br>
+Discordこちら： https://quick.etersia.moe/MeloriDiscord !<br>
+
+私のビデオを翻訳したいですか？私のGitHubレポをご覧ください！<br>
+https://github.com/MeloriTensei/MelYTTranslations<br>
+
+～ご支援いただけますと助かります! ^~^～<br>
+Throne(ギフト): https://thrn.co/u/MeloriTensei/<br>
+Ko-fi (メンバーシップ): https://ko-fi.com/MeloriTensei/<br>
+[ご注意]<br>
+寄付をすることで、チャージバック請求を行わないことに同意したものとみなされます。返金はなく、すべての取引は最終的なものとなります。<br>
+
+#Vtuber一問一答自己紹介<br>
