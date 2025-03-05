@@ -1,4 +1,4 @@
-# Title
+﻿# Title
 이세계 아이돌 - LOCKDOWN 커버를 해보려고 했어요 | 텐세이멜로리<br>
 
 # Description
@@ -9,7 +9,7 @@
 또한, 제 디스코드도 https://quick.etersia.moe/MeloriDiscord 에서 확인하세요!<br>
 
 제 영상을 번역하고 싶으신가요? 제 GitHub 리포지토리를 확인하시고 기여해 주세요!<br>
-https://github.com/MeloriTensei/MelYTTranslations<br>
+https://github.com/MeloriTensei-Community-Lab/MelYTTranslations/<br>
 
 제가 더 좋은 콘텐츠를 만들 수 있도록 아래에서 재정적으로 후원해 주세요.<br>
 ===아래에서 후원하기===<br>

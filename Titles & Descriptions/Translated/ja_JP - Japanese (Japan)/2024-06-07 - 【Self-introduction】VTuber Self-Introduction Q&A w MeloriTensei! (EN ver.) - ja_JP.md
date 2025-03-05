@@ -1,4 +1,4 @@
-# Title
+﻿# Title
 (翻訳あり！）【自己紹介】Vtuber一問一答自己紹介【転性メロリ】（英語版）<br>
 
 # Description
@@ -14,7 +14,7 @@ BG - OwORikos様: https://ko-fi.com/s/f16724d141<br>
 Discordこちら： https://quick.etersia.moe/MeloriDiscord !<br>
 
 私のビデオを翻訳したいですか？私のGitHubレポをご覧ください！<br>
-https://github.com/MeloriTensei/MelYTTranslations<br>
+https://github.com/MeloriTensei-Community-Lab/MelYTTranslations/<br>
 
 ～ご支援いただけますと助かります! ^~^～<br>
 Throne(ギフト): https://thrn.co/u/MeloriTensei/<br>
