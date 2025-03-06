@@ -1,5 +1,5 @@
 # Title
-Forza Horizon 5 Mexico beomes Bri' 'ish (Part 2)<br>
+Forza Horizon 5 Mexico becomes Bri' 'ish (Part 2)<br>
 
 # Description
 Jam packed of moments you won't want to miss, is simply me being a goofball!<br>
