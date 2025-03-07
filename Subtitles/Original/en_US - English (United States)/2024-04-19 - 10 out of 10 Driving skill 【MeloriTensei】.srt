@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,650 --> 00:00:02,580
 Chat: "You missed the waypoint, bruh."
 

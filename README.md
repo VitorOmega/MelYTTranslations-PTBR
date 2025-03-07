@@ -49,7 +49,9 @@ Some videos: English (United States) - [Titles & Descriptions](Titles%20&%20Desc
 # Contributors Guidelines
 This section serves the purpose to keep the subtitles quality to a certain standard.
 
-Accepted formats: all that YT supports (Refer to YouTube Help [here](https://support.google.com/youtube/answer/2734698 "here").)
+Accepted formats: The encoding for both subtitle and titles and descriptions files should always be `UTF-8` to ensure no unreadable characters down the line.
+
+Subtitles - all that YT supports (Refer to YouTube Help [here](https://support.google.com/youtube/answer/2734698 "here").)
 
 ------------
 

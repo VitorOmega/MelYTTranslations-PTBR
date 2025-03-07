@@ -1,4 +1,4 @@
-﻿# Title
+# Title
 (翻訳あり！）【自己紹介】Vtuber一問一答自己紹介【転性メロリ】（英語版）<br>
 
 # Description
