@@ -1,4 +1,4 @@
-# Title
+﻿# Title
 (翻訳あり！）【自己紹介】Vtuber一問一答自己紹介【転性メロリ】（英語版）<br>
 
 # Description
@@ -9,7 +9,7 @@
 本家様 ー 海月シェル（神様）：https://www.youtube.com/watch?v=V4L3YuhCUEY<br>
 BG - OwORikos様: https://ko-fi.com/s/f16724d141<br>
 
-もっとメロのことこちら： https://pincushion.etersia.moe/@MeloriTensei/<br>
+もっとメロのことこちら： https://MeloriTensei.carrd.co/<br>
 ブロックと動画を早くみたい？Ko-fiを見てください!<br>
 Discordこちら： https://quick.etersia.moe/MeloriDiscord !<br>
 

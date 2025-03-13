@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:01,551 --> 00:00:03,667
 她真的回来了，不是吗？
 
@@ -77,7 +77,7 @@
 
 20
 00:00:46,975 --> 00:00:53,960
-目前托管在https://pincushion.etersia.moe/@MeloriTensei/ 我搬出我的Carrd的原因是
+目前托管在 https://pincushion.etersia.moe/@MeloriTensei/ 我搬出我的Carrd的原因是
 
 21
 00:00:53,960 --> 00:00:56,517

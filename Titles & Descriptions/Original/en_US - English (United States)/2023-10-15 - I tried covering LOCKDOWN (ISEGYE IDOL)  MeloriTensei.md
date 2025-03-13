@@ -4,7 +4,7 @@ I tried covering LOCKDOWN (ISEGYE IDOL) | MeloriTensei<br>
 # Description
 I tried to cover ISEGYE IDOL's LOCKDOWN during the time when I only had my phone to create content with. While it was a challenge, it wasn't impossible to achieve. I'm just glad that I was undeterred by the death of my PC to continue creating content.<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

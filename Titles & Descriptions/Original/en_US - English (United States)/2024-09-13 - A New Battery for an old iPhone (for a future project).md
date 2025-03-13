@@ -10,7 +10,7 @@ iFixIt Guide: https://www.ifixit.com/Guide/iPhone+6+Battery+Replacement/29363<br
 
 Blog commentary: https://ko-fi.com/post/Early-Access-A-New-Battery-for-an-old-iPhone-fo-C0C412SNS8<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

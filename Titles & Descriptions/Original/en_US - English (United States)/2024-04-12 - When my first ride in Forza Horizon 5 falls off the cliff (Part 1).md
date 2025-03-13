@@ -6,7 +6,7 @@ This one stream made three parts of highlights, do look forward to the next two 
 
 I had this stream sometime 'round last year but I haven't found time to edit it until recently. That stream was simply one of my favorite streams I couldn't pass off the feeling to highlight it.<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

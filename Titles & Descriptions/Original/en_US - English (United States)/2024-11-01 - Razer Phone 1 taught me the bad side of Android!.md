@@ -6,7 +6,7 @@ I seriously think companies should get their shit together. I can't stand the co
 
 Blog commentary: https://ko-fi.com/post/Early-Access-Razer-Phone-1-taught-me-the-bad-sid-X8X61563ND<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

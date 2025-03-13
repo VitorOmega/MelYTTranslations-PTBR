@@ -4,7 +4,7 @@
 # Description
 휴대폰만 가지고 콘텐츠를 제작할 수 있던 시절에 이세계 아이돌 - LOCKDOWN 을 취재하려고 했어요. 도전이었지만 불가능한 일은 아니었습니다. PC의 죽음에도 굴하지 않고 콘텐츠 제작을 계속할 수 있어서 다행이었죠.<br>
 
-저에 대한 자세한 정보는 제 페이지를 확인하세요! https://pincushion.etersia.moe/@MeloriTensei/<br>
+저에 대한 자세한 정보는 제 페이지를 확인하세요! https://MeloriTensei.carrd.co/<br>
 더 많은 블로그 해설과 얼리 액세스 동영상을 보고 싶으신가요? 아래에서 제 Ko-Fi를 확인하세요!<br>
 또한, 제 디스코드도 https://quick.etersia.moe/MeloriDiscord 에서 확인하세요!<br>
 

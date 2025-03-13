@@ -4,7 +4,7 @@ Family! Family!【MeloriTensei】<br>
 # Description
 Family, Family, Family, Family, Family, Family, Family, Family, Family, Family, Family.<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

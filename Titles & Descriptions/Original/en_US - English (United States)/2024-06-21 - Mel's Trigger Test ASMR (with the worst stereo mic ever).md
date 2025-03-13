@@ -5,7 +5,7 @@ Mel's Trigger Test ASMR (with the worst stereo mic ever)<br>
 This is how amateur ASMR sounds like XD<br>
 I hope I can find ways to improve on this.<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

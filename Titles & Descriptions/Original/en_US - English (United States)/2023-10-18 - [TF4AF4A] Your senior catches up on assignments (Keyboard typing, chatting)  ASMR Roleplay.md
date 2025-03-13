@@ -10,7 +10,7 @@ Oh, while you’re reading this.  Here’s some more context on the sudden conte
 
 I hope to see you in upcoming contents to come, tis been Melori Valentine, I bid you a safe travel in the Internet! See ya!<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

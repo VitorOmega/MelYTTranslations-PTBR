@@ -8,7 +8,7 @@ Thanks for  @itsjasoninnit  for joining me through this part of the highlight of
 
 Thank you all for joining me on the crazy adventure I had back in 16th June 2023. I'm so looking forward to make more Forza streams now that the editing workload is officially off my shoulders! Catch ya live here eventually! ^~^
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

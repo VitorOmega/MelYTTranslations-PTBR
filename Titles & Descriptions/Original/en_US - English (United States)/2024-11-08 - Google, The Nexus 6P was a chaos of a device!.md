@@ -10,7 +10,7 @@ Reddit PSA: https://www.reddit.com/r/Nexus6P/comments/buieav/psa_nexus_6p_class_
 
 Blog Commentary: https://ko-fi.com/post/Early-Access-The-Story-about-my-Google-Nexus-6P-Y8Y315CVKC<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

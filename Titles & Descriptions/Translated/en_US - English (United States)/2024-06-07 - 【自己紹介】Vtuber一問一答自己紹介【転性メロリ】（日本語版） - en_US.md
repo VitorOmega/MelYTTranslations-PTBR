@@ -8,7 +8,7 @@ Man... it's been two years since I started streaming. Welp, nice to meet ya!<br>
 VTuber Self-intro EN Template by Umitsuki Shell (The Goddess!): https://www.youtube.com/watch?v=bbijKFRpZFc<br>
 Background img by OwORikos: https://ko-fi.com/s/f16724d141<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

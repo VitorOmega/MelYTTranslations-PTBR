@@ -8,7 +8,7 @@ UPDATE: Keep an eye on my community posts for constant updates.<br>
 
 This PC drives me crazy! But please do ask questions anyway!<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

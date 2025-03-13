@@ -6,7 +6,7 @@ Jam packed of moments you won't want to miss, is simply me being a goofball!<br>
 
 Thanks to  @itsjasoninnit  for playing along in my stream!<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

@@ -6,7 +6,7 @@ This case truly was a dang chaos, I don't even know how the heck I survived edit
 
 Blog commentary: https://ko-fi.com/post/Early-Access-This-PC-Case-was-DIFFICULT-to-work-J3J513T4FD<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

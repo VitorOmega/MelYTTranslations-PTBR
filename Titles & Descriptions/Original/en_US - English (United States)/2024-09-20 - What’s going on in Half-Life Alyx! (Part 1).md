@@ -6,7 +6,7 @@ So, I tried playing Half-Life Alyx. Trying out something really different. I'm g
 
 Blog commentary: https://ko-fi.com/post/Early-Access-I-tried-Half-Life-Alyx-K3K513CCV0<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

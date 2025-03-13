@@ -18,7 +18,7 @@ OwOTrack (Google Play / Android): https://play.google.com/store/apps/details?id=
 
 Sorakage033's SlimeVR Cheesecake Design (A smaller community-made design): https://github.com/Sorakage033/SlimeVR-CheeseCake/<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 

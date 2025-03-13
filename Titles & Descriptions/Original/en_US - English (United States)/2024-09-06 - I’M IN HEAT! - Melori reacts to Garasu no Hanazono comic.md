@@ -9,7 +9,7 @@ Blog commentary: https://ko-fi.com/post/Early-Access-Mel-reacts-to-Garasu-no-Han
 Original by P S: https://youtu.be/VdbsY4VRhrk<br>
 English available by Mai88: https://www.youtube.com/watch?v=eQZp_f4QQ2g<br>
 
-Check out my page for more info about me! https://pincushion.etersia.moe/@MeloriTensei/<br>
+Check out my page for more info about me! https://MeloriTensei.carrd.co/<br>
 Want to see more blog commentary and early access videos? Check out my Ko-Fi below!<br>
 Also, check out my Discord at https://quick.etersia.moe/MeloriDiscord !<br>
 
