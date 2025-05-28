@@ -22,6 +22,8 @@ Korean (`ko_kr`) - [Titles & Descriptions](Titles%20&%20Descriptions/Translated/
 
 Marathi (`mr_IN`) - Titles & Descriptions, [Subtitles](Subtitles/Translated/mr_IN%20-%20Marathi%20%28India%29)
 
+Portuguese (Brazil) (`pt_BR`) - Titles & Descriptions, [Subtitles](Subtitles/Translated/pt_BR%20-%20Portuguese%20%28Brazil%29)
+
 Romanian (`ro_RO`) - Titles & Descriptions, [Subtitles](Subtitles/Translated/ro_RO%20-%20Romanian%20%28Romania%29)
 
 Some videos: English (United States) - [Titles & Descriptions](Titles%20&%20Descriptions/Translated/en_US%20-%20English%20%28United%20States%29), [Subtitles](Subtitles/Translated/en_US%20-%20English%20%28United%20States%29)
