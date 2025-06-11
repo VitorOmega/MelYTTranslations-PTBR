@@ -23,8 +23,6 @@ My name in English will always be Melori Valentine. If you're unsure of the spel
 
 ## Current translation team
 
-> VitorOmega13/NotKinu
-
 ### Human Directed Translators
 
 > This section is for people who have near native profficiency
@@ -57,7 +55,7 @@ My name in English will always be Melori Valentine. If you're unsure of the spel
 <tbody>
   <tr>
     <td>VitorOmega<br>Discord: notkinu</td>
-    <td>- All of them<br></td>
+    <td>- All videos up to 2025-05-23 (<a href="https://www.youtube.com/watch?v=dp-SBs4qHuw" target="_blank" rel="noopener noreferrer">[TF4A &amp; F4A] Your brainrot girlfriend whispers you Shikanoko Nokonoko Koshitantan to sleep</a>)</td>
   </tr>
 </tbody>
 </table>
