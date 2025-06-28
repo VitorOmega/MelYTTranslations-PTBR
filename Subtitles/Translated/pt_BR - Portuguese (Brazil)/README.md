@@ -52,7 +52,7 @@ are on the same page.
   </tr></thead>
 <tbody>
   <tr>
-    <td>VitorOmega<br>Discord: notkinu</td>
+    <td>VitorOmega<br>Discord: kosaka_wakamo</td>
     <td>- <a href="https://www.youtube.com/watch?v=vnyC4rz8qBE" target="_blank" rel="noopener noreferrer">This tool clutched my university life!</a><br></td>
   </tr>
 </tbody>
