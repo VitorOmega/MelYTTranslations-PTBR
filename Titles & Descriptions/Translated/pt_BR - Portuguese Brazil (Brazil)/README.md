@@ -54,7 +54,7 @@ My name in English will always be Melori Valentine. If you're unsure of the spel
   </tr></thead>
 <tbody>
   <tr>
-    <td>VitorOmega<br>Discord: notkinu</td>
+    <td>VitorOmega<br>Discord: kosaka_wakamo</td>
     <td>- All videos up to 2025-05-23 (<a href="https://www.youtube.com/watch?v=dp-SBs4qHuw" target="_blank" rel="noopener noreferrer">[TF4A &amp; F4A] Your brainrot girlfriend whispers you Shikanoko Nokonoko Koshitantan to sleep</a>)</td>
   </tr>
 </tbody>
