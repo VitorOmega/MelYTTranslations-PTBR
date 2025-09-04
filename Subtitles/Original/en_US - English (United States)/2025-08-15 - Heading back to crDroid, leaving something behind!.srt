@@ -1,0 +1,1776 @@
+﻿1
+00:00:00,000 --> 00:00:02,330
+Something's a little different today.
+
+2
+00:00:02,333 --> 00:00:05,370
+Kon-Melo, it's ya tech wizardess girl, MeloriTensei!
+
+3
+00:00:05,366 --> 00:00:07,430
+And today, something's a little different.
+
+4
+00:00:07,433 --> 00:00:10,450
+Something rolled into my mail.
+
+5
+00:00:10,633 --> 00:00:12,080
+I got a new pair of gloves!
+
+6
+00:00:12,083 --> 00:00:14,080
+Let's go!
+
+7
+00:00:14,083 --> 00:00:16,350
+Well, um…
+
+8
+00:00:16,949 --> 00:00:19,000
+Something feels a little off.
+
+9
+00:00:19,000 --> 00:00:21,400
+Something feels like…
+
+10
+00:00:21,399 --> 00:00:23,380
+Hmm…
+
+11
+00:00:23,383 --> 00:00:25,770
+Something's a little off.
+
+12
+00:00:25,766 --> 00:00:26,670
+Like…
+
+13
+00:00:26,666 --> 00:00:28,120
+Hmm…
+
+14
+00:00:28,116 --> 00:00:30,700
+It's like I've kinda lost myself.
+
+15
+00:00:30,699 --> 00:00:32,930
+Somewhere in identity.
+
+16
+00:00:32,933 --> 00:00:33,920
+It's like…
+
+17
+00:00:33,916 --> 00:00:35,000
+What am I?
+
+18
+00:00:35,000 --> 00:00:36,980
+Am I really MeloriTensei?
+
+19
+00:00:36,983 --> 00:00:40,170
+Is this really me?
+
+20
+00:00:40,216 --> 00:00:42,380
+What am I?
+
+21
+00:00:43,299 --> 00:00:45,600
+Not just joking!
+
+22
+00:00:45,600 --> 00:00:48,120
+There's my actual one right here!
+
+23
+00:00:48,116 --> 00:00:49,250
+So...
+
+24
+00:00:49,250 --> 00:00:51,070
+I got this new pair of gloves,
+
+25
+00:00:51,066 --> 00:00:54,500
+initially with the intent to solve touch issues.
+
+26
+00:00:54,500 --> 00:00:57,400
+So I have to stop using this bloody thing.
+
+27
+00:00:57,399 --> 00:00:59,370
+But when it rolled into my mail,
+
+28
+00:00:59,366 --> 00:01:01,830
+I realized that this was a little extra tight.
+
+29
+00:01:01,833 --> 00:01:03,170
+It was too tight for me.
+
+30
+00:01:03,166 --> 00:01:04,930
+And it was really uncomfortable.
+
+31
+00:01:04,933 --> 00:01:07,080
+It was heavily for winter use.
+
+32
+00:01:07,083 --> 00:01:08,580
+And guess what?
+
+33
+00:01:08,583 --> 00:01:10,480
+It barely even cost a dollar.
+
+34
+00:01:10,483 --> 00:01:13,000
+It's like, what, 70 cents or something like that?
+
+35
+00:01:13,000 --> 00:01:16,400
+So you would expect terrible quality out of that.
+
+36
+00:01:16,400 --> 00:01:18,580
+And yes, it does make me feel itchy.
+
+37
+00:01:18,583 --> 00:01:20,520
+I did wash it multiple times.
+
+38
+00:01:20,516 --> 00:01:21,870
+It ain't leaving.
+
+39
+00:01:21,866 --> 00:01:22,730
+It's terrible.
+
+40
+00:01:22,733 --> 00:01:25,450
+It's such a shit glove.
+
+41
+00:01:25,450 --> 00:01:27,630
+So I'm going to yeet this.
+
+42
+00:01:27,633 --> 00:01:30,850
+Oh my god, it's so hard to take it off.
+
+43
+00:01:30,849 --> 00:01:33,950
+Yeet!
+
+44
+00:01:34,733 --> 00:01:36,200
+Much better.
+
+45
+00:01:36,200 --> 00:01:37,320
+Anyways,
+
+46
+00:01:37,316 --> 00:01:40,220
+if you haven't read the title of this video today,
+
+47
+00:01:40,216 --> 00:01:42,480
+I'm going back to crDroid again.
+
+48
+00:01:42,483 --> 00:01:44,980
+Like, if you have seen all the past videos I've got,
+
+49
+00:01:44,983 --> 00:01:46,000
+I'm going like,
+
+50
+00:01:46,000 --> 00:01:49,930
+freaking PixelOS, crDroid, PixelOS, crDroid,
+
+51
+00:01:49,933 --> 00:01:51,930
+freaking hell, we're going back to crDroid again.
+
+52
+00:01:51,933 --> 00:01:56,080
+And this time, I want to do things a little bit different.
+
+53
+00:01:56,083 --> 00:01:58,880
+So, here, ask yourself,
+
+54
+00:01:58,883 --> 00:02:00,950
+would you really want to continue using
+
+55
+00:02:00,950 --> 00:02:02,720
+your current instance of Android
+
+56
+00:02:02,716 --> 00:02:05,920
+if it's lagging to living hell?
+
+57
+00:02:05,933 --> 00:02:09,370
+Here, I even got this guy back to demonstrate.
+
+58
+00:02:09,366 --> 00:02:12,380
+So let me just open up my phone.
+
+59
+00:02:12,383 --> 00:02:14,630
+You're paying attention, you're seeing this, right?
+
+60
+00:02:14,633 --> 00:02:16,030
+Right.
+
+61
+00:02:16,033 --> 00:02:18,050
+Watch.
+
+62
+00:02:24,099 --> 00:02:30,000
+Erghh…
+
+63
+00:02:30,000 --> 00:02:32,470
+*DankPods scream*
+
+64
+00:02:32,466 --> 00:02:35,180
+Oh, the sheer lag!
+
+65
+00:02:35,183 --> 00:02:36,900
+Like, loading the page is one thing,
+
+66
+00:02:36,900 --> 00:02:41,130
+because I've got very, very low reception of Wi-Fi.
+
+67
+00:02:41,133 --> 00:02:42,780
+This scrolling is another thing!
+
+68
+00:02:42,783 --> 00:02:45,630
+*more DankPods scream*
+
+69
+00:02:45,633 --> 00:02:46,980
+Okay.
+
+70
+00:02:46,983 --> 00:02:48,330
+I've had enough.
+
+71
+00:02:48,333 --> 00:02:49,870
+I've had fucking enough.
+
+72
+00:02:49,866 --> 00:02:52,150
+I've installed very little apps,
+
+73
+00:02:52,150 --> 00:02:54,620
+and I'm still facing this kind of problem.
+
+74
+00:02:54,616 --> 00:02:55,520
+That's it.
+
+75
+00:02:55,516 --> 00:02:57,280
+Guess who's getting the boot?
+
+76
+00:02:57,283 --> 00:02:58,780
+Google Services!
+
+77
+00:02:58,783 --> 00:03:03,570
+So with that, we're going to crDroid without Google Services.
+
+78
+00:03:03,566 --> 00:03:07,450
+So we're going to be destroying everything on this phone.
+
+79
+00:03:08,033 --> 00:03:09,780
+Oh my god.
+
+80
+00:03:09,783 --> 00:03:10,900
+That lag.
+
+81
+00:03:10,900 --> 00:03:13,330
+So we're going to be destroying everything on this phone,
+
+82
+00:03:13,333 --> 00:03:14,830
+and we're going to start fresh.
+
+83
+00:03:14,833 --> 00:03:16,800
+And as always,
+
+84
+00:03:16,800 --> 00:03:18,050
+ya girl's prepared.
+
+85
+00:03:18,050 --> 00:03:19,020
+While I work on that,
+
+86
+00:03:19,016 --> 00:03:20,970
+I'm going to have my moderator, Natalie,
+
+87
+00:03:20,966 --> 00:03:21,870
+Nat: Hi~
+
+88
+00:03:21,866 --> 00:03:23,650
+to check on me every once in a while
+
+89
+00:03:23,650 --> 00:03:24,980
+while I do my work.
+
+90
+00:03:24,983 --> 00:03:25,520
+Right!
+
+91
+00:03:25,516 --> 00:03:27,400
+So, without talking much,
+
+92
+00:03:27,400 --> 00:03:29,770
+without further ado, let's get straight to working on it.
+
+93
+00:03:29,766 --> 00:03:31,400
+VO MEL: Heya, voiceover Mel here.
+
+94
+00:03:31,400 --> 00:03:34,830
+This time, I'm going to be presenting this video a tad bit differently.
+
+95
+00:03:34,833 --> 00:03:37,030
+Considering how much can go wrong in this video,
+
+96
+00:03:37,033 --> 00:03:39,420
+I decided not to say the steps during filming,
+
+97
+00:03:39,416 --> 00:03:41,630
+and leave it to the voiceover to do it for me.
+
+98
+00:03:41,633 --> 00:03:44,080
+We'll start, of course, to shut down the phone.
+
+99
+00:03:44,083 --> 00:03:47,350
+And put the phone into Odin mode.
+
+100
+00:03:48,449 --> 00:03:50,380
+Flash the new crDroid recovery...
+
+101
+00:03:50,383 --> 00:03:53,480
+Until something went wrong on my PC.
+
+102
+00:03:53,483 --> 00:03:54,600
+Huh?
+
+103
+00:03:54,599 --> 00:03:57,220
+So Windows occasionally decides to be a goofball
+
+104
+00:03:57,216 --> 00:03:58,700
+and reset my drivers.
+
+105
+00:03:58,699 --> 00:04:02,000
+So to fix that, I got Zadig to overwrite to WinUSB
+
+106
+00:04:02,000 --> 00:04:04,030
+so Heimdall can detect the device properly.
+
+107
+00:04:04,033 --> 00:04:05,770
+The occasional problem you'll find is that
+
+108
+00:04:05,766 --> 00:04:07,970
+your phone might have two gadget serials.
+
+109
+00:04:07,966 --> 00:04:09,070
+So when it doesn't work...
+
+110
+00:04:09,066 --> 00:04:09,800
+LIVE MEL: Eh...
+
+111
+00:04:09,800 --> 00:04:12,630
+Okay, maybe it's the other gadget serial.
+
+112
+00:04:12,633 --> 00:04:14,450
+There's two gadget serials.
+
+113
+00:04:14,449 --> 00:04:18,280
+VO: And of fucking course, it works.
+
+114
+00:04:18,283 --> 00:04:21,670
+And now, we restart Odin mode.
+
+115
+00:04:25,850 --> 00:04:27,930
+LIVE: You know, recently, umm...
+
+116
+00:04:27,933 --> 00:04:30,980
+I started listening to Linkin Park's latest album.
+
+117
+00:04:30,983 --> 00:04:33,200
+It's called From Zero.
+
+118
+00:04:33,199 --> 00:04:35,270
+And I'm starting to take a liking of
+
+119
+00:04:35,266 --> 00:04:36,720
+this song in the album called
+
+120
+00:04:36,716 --> 00:04:38,880
+Up From The Bottom.
+(Credit: Linkin Park YT, RIP potential monetization)
+
+121
+00:04:38,883 --> 00:04:39,580
+Because Emily…
+
+122
+00:04:39,583 --> 00:04:41,470
+Nat: I've not listened to Linkin Park in a long time.
+
+123
+00:04:41,466 --> 00:04:42,170
+Hmm.
+
+124
+00:04:42,166 --> 00:04:44,020
+Because Emily is like
+
+125
+00:04:44,016 --> 00:04:45,980
+really strong.
+
+126
+00:04:45,983 --> 00:04:47,950
+She feels like
+
+127
+00:04:47,949 --> 00:04:50,750
+the next generation of Chester Bennington
+(Don't @ me, I'm not saying she REPLACES him.)
+
+128
+00:04:50,750 --> 00:04:51,830
+to an extent.
+
+129
+00:04:51,833 --> 00:04:53,080
+Nat: Hm. Cool.
+
+130
+00:04:53,083 --> 00:04:54,520
+She's got that strength.
+
+131
+00:04:54,516 --> 00:04:55,830
+And Mike Shinoda's back
+
+132
+00:04:55,833 --> 00:04:57,600
+to being a rapper again.
+
+133
+00:04:57,600 --> 00:05:00,880
+VO: That aside, something weird happened.
+
+134
+00:05:00,883 --> 00:05:02,270
+LIVE: Is this lineage recovery?
+
+135
+00:05:02,266 --> 00:05:03,470
+Or is this cr...?
+
+136
+00:05:03,466 --> 00:05:05,870
+Mel: I have a hard time believing.
+Nat: Looks like Lineage to me.
+
+137
+00:05:05,866 --> 00:05:07,650
+Yeah, ah, like…
+
+138
+00:05:07,649 --> 00:05:08,570
+Huh...
+
+139
+00:05:08,566 --> 00:05:11,380
+Nat: crDroid has like a reddish hue.
+
+140
+00:05:11,383 --> 00:05:12,670
+Mel: Huh.
+
+141
+00:05:12,666 --> 00:05:13,930
+You know what's funny?
+
+142
+00:05:13,933 --> 00:05:15,850
+I got this recovery image
+
+143
+00:05:15,850 --> 00:05:19,120
+from the crDroid zip itself.
+
+144
+00:05:19,116 --> 00:05:20,730
+I was checking through
+
+145
+00:05:20,733 --> 00:05:22,400
+the official page,
+
+146
+00:05:22,399 --> 00:05:24,020
+the XDA official page,
+
+147
+00:05:24,016 --> 00:05:25,700
+and they said,
+
+148
+00:05:25,699 --> 00:05:27,520
+"My mistake, sorry.
+
+149
+00:05:27,516 --> 00:05:30,320
+You can actually grab the recovery image from ROM Zip
+
+150
+00:05:30,316 --> 00:05:31,600
+and install.
+
+151
+00:05:31,600 --> 00:05:34,050
+Previous recovery link was removed."
+
+152
+00:05:34,050 --> 00:05:37,180
+So I kind of instinctively went and did that.
+
+153
+00:05:37,183 --> 00:05:37,720
+LIVE: Right.
+
+154
+00:05:37,716 --> 00:05:39,130
+VO: So without knowing what went wrong,
+
+155
+00:05:39,133 --> 00:05:40,100
+I continued.
+
+156
+00:05:40,100 --> 00:05:42,600
+LIVE: Yaaa, yeet~!
+
+157
+00:05:43,416 --> 00:05:46,070
+Yaaa, yeet~!
+
+158
+00:05:46,199 --> 00:05:47,770
+Yaaa, yeet~!
+
+159
+00:05:47,766 --> 00:05:50,680
+VO: I went on the flash like usual.
+
+160
+00:05:56,133 --> 00:05:57,350
+Very nice.
+
+161
+00:05:57,350 --> 00:06:17,680
+(*Humming Up From The Bottom*)
+
+162
+00:06:17,683 --> 00:06:21,500
+God, I really can't shake that song off of my head.
+
+163
+00:06:21,500 --> 00:06:23,800
+It's such an addicting song.
+
+164
+00:06:23,800 --> 00:06:24,650
+Nat: Hm.
+
+165
+00:06:24,649 --> 00:06:26,930
+VO: Until…
+
+166
+00:06:27,750 --> 00:06:28,830
+LIVE: What?
+
+167
+00:06:28,833 --> 00:06:30,970
+Nat: Installation aborted? Huh...
+
+168
+00:06:30,966 --> 00:06:33,000
+SPL downgrade.
+
+169
+00:06:33,000 --> 00:06:35,280
+Security patch. Uh-huh...
+
+170
+00:06:35,283 --> 00:06:36,520
+I see.
+
+171
+00:06:36,516 --> 00:06:38,070
+Mel: Wow.
+
+172
+00:06:38,066 --> 00:06:39,400
+Truly unbelievable.
+
+173
+00:06:39,399 --> 00:06:40,670
+How the hell
+
+174
+00:06:40,666 --> 00:06:42,920
+did that even happen?
+
+175
+00:06:42,916 --> 00:06:45,170
+Nat: You might need to flash back to
+
+176
+00:06:45,166 --> 00:06:49,080
+the stock ROM of the Note 10 first and then try again.
+
+177
+00:06:49,083 --> 00:06:50,720
+Mel: Oh, god damn.
+
+178
+00:06:50,716 --> 00:06:53,220
+Nat: Yup, that's gonna be a process.
+
+179
+00:06:53,216 --> 00:06:54,730
+Mel: Oh my god.
+
+180
+00:06:54,733 --> 00:06:57,030
+VO: And off we go to fetch the stock ROM.
+
+181
+00:06:57,033 --> 00:07:00,520
+Just to dial the security date back.
+
+182
+00:07:02,016 --> 00:07:03,670
+LIVE: It's kind of shocking that I remembered
+
+183
+00:07:03,666 --> 00:07:07,220
+my model off the top of my head.
+
+184
+00:07:13,300 --> 00:07:17,050
+VO: Get the phone into Odin mode while we're at it.
+
+185
+00:07:18,483 --> 00:07:21,820
+LIVE: (Imitating) 2000 years later.
+
+186
+00:07:21,816 --> 00:07:22,930
+VO: Only to realize that
+
+187
+00:07:22,933 --> 00:07:25,570
+WinUSB drivers don't work with Odin.
+
+188
+00:07:25,566 --> 00:07:28,320
+LIVE: And this driver is not friendly with Odin.
+
+189
+00:07:28,316 --> 00:07:31,870
+VO: Just replace it with whatever stock driver that was.
+
+190
+00:07:32,483 --> 00:07:33,830
+LIVE: Oh, there we go.
+
+191
+00:07:33,833 --> 00:07:36,580
+VO: Get all the binaries into Odin.
+
+192
+00:07:36,583 --> 00:07:37,280
+LIVE: There we go.
+
+193
+00:07:37,283 --> 00:07:40,220
+In theory, this is all we need.
+
+194
+00:07:40,216 --> 00:07:42,880
+And we'll have to run through the whole thing again.
+
+195
+00:07:42,883 --> 00:07:45,520
+VO: I dread for this.
+
+196
+00:07:50,983 --> 00:07:53,250
+LIV:E Ah, here we go.
+
+197
+00:07:57,649 --> 00:08:00,130
+Nat: Yay, stock rom.
+
+198
+00:08:00,133 --> 00:08:01,470
+Mel: Gosh darn it.
+
+199
+00:08:01,466 --> 00:08:04,170
+VO: Go through the setup like usual.
+
+200
+00:08:11,166 --> 00:08:13,320
+Make sure the OEM unlocking is present.
+
+201
+00:08:13,316 --> 00:08:14,520
+Because if it isn't,
+
+202
+00:08:14,516 --> 00:08:16,820
+that means you've not connected to the internet during setup
+
+203
+00:08:16,816 --> 00:08:18,930
+and activate the phone for flashing.
+
+204
+00:08:18,933 --> 00:08:20,770
+I got back to Odin mode once again.
+
+205
+00:08:20,766 --> 00:08:24,070
+Get the driver swapped back to WinUSB.
+
+206
+00:08:24,066 --> 00:08:26,880
+Flash like I'm supposed to.
+
+207
+00:08:29,449 --> 00:08:31,050
+Reboot into recovery.
+
+208
+00:08:31,050 --> 00:08:34,270
+Only to see the stock recovery.
+
+209
+00:08:34,883 --> 00:08:36,320
+LIVE: What?
+
+210
+00:08:36,316 --> 00:08:39,030
+Nat: Oh, I think OneUI might have replaced
+
+211
+00:08:39,033 --> 00:08:42,650
+the recovery when you booted into it.
+
+212
+00:08:42,649 --> 00:08:44,880
+Mel: Oh...
+
+213
+00:08:44,883 --> 00:08:47,650
+Nat: Yeah, that happens on Android phones sometimes.
+
+214
+00:08:47,649 --> 00:08:50,320
+Mel: Well, Samsung, you suck.
+
+215
+00:08:50,316 --> 00:08:52,880
+Something just crossed my mind for a second.
+
+216
+00:08:52,883 --> 00:08:56,180
+Why don't I boot into one UI right now?
+
+217
+00:08:56,183 --> 00:08:57,900
+If you've seen enough cartoons,
+
+218
+00:08:57,899 --> 00:09:00,030
+you would understand an analogy
+
+219
+00:09:00,033 --> 00:09:02,600
+I'm going to be doing right now.
+
+220
+00:09:02,600 --> 00:09:04,600
+Instead of explaining the analogy,
+
+221
+00:09:04,600 --> 00:09:06,480
+I'm gonna do the action
+
+222
+00:09:06,483 --> 00:09:08,980
+and see if you understand the analogy.
+
+223
+00:09:08,983 --> 00:09:10,730
+Nat: Alright, let's see.
+
+224
+00:09:10,733 --> 00:09:12,470
+(*Boot into stock recovery*)
+
+225
+00:09:12,466 --> 00:09:17,670
+(*Yeet the entire ROM*)
+
+226
+00:09:17,666 --> 00:09:20,500
+(*and it's cache partition for good measure*)
+
+227
+00:09:20,500 --> 00:09:22,750
+(*Power off the phone*)
+
+228
+00:09:22,750 --> 00:09:25,370
+(*Boot into Odin mode*)
+
+229
+00:09:25,366 --> 00:09:30,470
+(*Flash the crDroid Recovery*)
+
+230
+00:09:30,466 --> 00:09:35,580
+(*Without ROM, it'd guaranteed to boot into recovery*)
+
+231
+00:09:37,033 --> 00:09:38,150
+Boom
+
+232
+00:09:38,149 --> 00:09:40,600
+Ladies and gentlemen, we got 'em.
+
+233
+00:09:40,600 --> 00:09:42,230
+Nat: Hooray!
+
+234
+00:09:42,233 --> 00:09:45,550
+Actually, I wonder if the Lineage recovery
+
+235
+00:09:45,549 --> 00:09:49,170
+was overriding the crDroid
+
+236
+00:09:49,166 --> 00:09:53,570
+and that's what's causing the issue in the first place.
+
+237
+00:09:53,566 --> 00:09:55,630
+Mel: That might very well be, honestly.
+
+238
+00:09:55,633 --> 00:09:56,870
+VO: And with that out of the way,
+
+239
+00:09:56,866 --> 00:10:00,250
+let's format the data and clean up.
+
+240
+00:10:02,583 --> 00:10:05,800
+And flash the CRDroid for real.
+
+241
+00:10:12,466 --> 00:10:13,650
+Once done, just reboot
+
+242
+00:10:13,649 --> 00:10:16,670
+since we aren't installing GApps.
+
+243
+00:10:17,166 --> 00:10:20,100
+Now that crDroid is working, let's set up like usual.
+
+244
+00:10:20,100 --> 00:10:21,930
+Just as I was going to complete the setup,
+
+245
+00:10:21,933 --> 00:10:23,530
+the navigation bar popped out
+
+246
+00:10:23,533 --> 00:10:25,020
+and interrupted the setup.
+
+247
+00:10:25,016 --> 00:10:26,920
+Eh.
+
+248
+00:10:28,516 --> 00:10:30,900
+(LIVE Mel laughing)
+
+249
+00:10:30,899 --> 00:10:32,470
+LIVE: I just mis-
+
+250
+00:10:32,466 --> 00:10:34,520
+I just mis-tapped.
+
+251
+00:10:34,516 --> 00:10:36,700
+(It) took me all the way back.
+
+252
+00:10:36,700 --> 00:10:38,870
+Ha ha ha.
+
+253
+00:10:39,716 --> 00:10:41,800
+♫Baby, take my hand.♫
+
+254
+00:10:41,799 --> 00:10:44,520
+♫I would like to be your wife.♫
+
+255
+00:10:44,516 --> 00:10:46,730
+♫Cause you're my Iron Man.♫
+
+256
+00:10:46,733 --> 00:10:49,850
+And "we love you 3000."
+
+257
+00:10:49,850 --> 00:10:52,250
+(Mel laughing)
+
+258
+00:10:52,250 --> 00:10:55,580
+VO: So I started installing Droid-ify, Aurora, and MicroG.
+
+259
+00:10:55,583 --> 00:10:58,580
+Because these will be our replacements to Google services.
+
+260
+00:10:58,583 --> 00:11:02,320
+But for some reason, MicroG wouldn't install through Droid-ify.
+
+261
+00:11:02,316 --> 00:11:06,630
+So we just got the APKs and installed it that way.
+
+262
+00:11:08,166 --> 00:11:10,070
+LIVE: Wow, that took long.
+
+263
+00:11:10,066 --> 00:11:12,580
+Say hi to us on Telegram.
+
+264
+00:11:12,583 --> 00:11:14,200
+Nice.
+
+265
+00:11:14,200 --> 00:11:16,650
+Now that we('ve) set up most of what we need,
+
+266
+00:11:16,649 --> 00:11:19,280
+there's still a few things left.
+
+267
+00:11:19,283 --> 00:11:20,870
+Customizing.
+
+268
+00:11:20,866 --> 00:11:22,900
+VO: So I bought an icon pack for no reason
+
+269
+00:11:22,899 --> 00:11:25,100
+and activated it through MicroG.
+
+270
+00:11:25,100 --> 00:11:25,930
+LIVE: Booyah.
+
+271
+00:11:25,933 --> 00:11:27,500
+VO: Got my launcher of choice,
+
+272
+00:11:27,500 --> 00:11:30,020
+set up a wallpaper.
+
+273
+00:11:30,399 --> 00:11:34,470
+(LIVE Mel laughing softly)
+
+274
+00:11:34,466 --> 00:11:36,380
+Nat: What are we laughing about?
+
+275
+00:11:36,383 --> 00:11:37,830
+Mel: The fact that I'm actually using
+
+276
+00:11:37,833 --> 00:11:42,220
+these two little nubbings to pinch and zoom.
+
+277
+00:11:42,216 --> 00:11:44,630
+Nat: Ah, yes.
+
+278
+00:11:45,283 --> 00:11:47,700
+Mel: One thing that did jump out to me
+
+279
+00:11:47,700 --> 00:11:51,220
+is that none of the clocks fit this wallpaper.
+
+280
+00:11:51,216 --> 00:11:52,920
+Nat: Unfortunate.
+
+281
+00:11:52,916 --> 00:11:55,230
+Mel: I guess we'll make do with that for now.
+
+282
+00:11:55,233 --> 00:11:57,880
+Oh, you can set them small again.
+
+283
+00:11:57,883 --> 00:11:58,900
+That's good.
+
+284
+00:11:58,899 --> 00:11:59,720
+Nat: Yes.
+
+285
+00:11:59,716 --> 00:12:03,250
+Mel: That's definitely something.
+Nat: (It's there since) uhh I think Android 13...
+
+286
+00:12:03,750 --> 00:12:07,500
+Mel: Doesn't this make it look like more of a Chinese phone kind of vibe?
+
+287
+00:12:07,500 --> 00:12:12,300
+Nat: Uhh yeah, it reminds me of like early MIUI days.
+
+288
+00:12:12,299 --> 00:12:13,830
+Mel: For real.
+
+289
+00:12:13,833 --> 00:12:14,680
+And there I go.
+
+290
+00:12:14,683 --> 00:12:16,900
+This is my Android phone for this period.
+
+291
+00:12:16,899 --> 00:12:18,270
+I'll be testing it out and
+
+292
+00:12:18,266 --> 00:12:20,670
+I'll be secondary daily driving it
+
+293
+00:12:20,666 --> 00:12:22,670
+and see whether I need Magisk or not.
+
+294
+00:12:22,666 --> 00:12:24,430
+But for now, I'm pretty satisfied with it.
+
+295
+00:12:24,433 --> 00:12:27,970
+So I'm going to continue doing all the rest of the setup and...
+
+296
+00:12:27,966 --> 00:12:30,730
+There is a few steps that did go wrong, but
+
+297
+00:12:30,733 --> 00:12:32,450
+I'm glad not too much has gone wrong.
+
+298
+00:12:32,450 --> 00:12:34,920
+And yeah, with that said,
+
+299
+00:12:34,916 --> 00:12:36,750
+thank you all so much for watching
+
+300
+00:12:36,750 --> 00:12:38,470
+and be sure to subscribe.
+
+301
+00:12:38,466 --> 00:12:41,520
+Be sure to check out my Ko-fi if you would like to support me financially.
+
+302
+00:12:41,516 --> 00:12:44,200
+There's also Throne if you would like to give me some gifts.
+
+303
+00:12:44,200 --> 00:12:46,870
+If that's kind of your interest.
+
+304
+00:12:46,866 --> 00:12:49,130
+And also check out my YouTube memberships.
+
+305
+00:12:49,133 --> 00:12:54,180
+So Throne, Ko-fi, YouTube. They're all the same tier memberships.
+
+306
+00:12:54,183 --> 00:12:56,720
+You all will get the same type of access of content.
+
+307
+00:12:56,716 --> 00:12:58,330
+And yeah.
+
+308
+00:12:58,333 --> 00:13:00,000
+Also be sure to check out my videos tab
+
+309
+00:13:00,000 --> 00:13:01,250
+if you want more tech videos
+
+310
+00:13:01,250 --> 00:13:03,980
+and check out the live tab if you want more gaming
+
+311
+00:13:03,983 --> 00:13:05,150
+and shenanigans.
+
+312
+00:13:05,149 --> 00:13:09,620
+And time to tangent towards the sponsor of this video.
+
+313
+00:13:09,616 --> 00:13:12,420
+If you think I'm not going to take that opportunity to do that,
+
+314
+00:13:12,416 --> 00:13:14,470
+you'll be damn wrong.
+
+315
+00:13:14,466 --> 00:13:16,320
+So special thanks to SD Maid SE.
+
+316
+00:13:16,316 --> 00:13:19,600
+It's currently made by a singular person named Darken
+
+317
+00:13:19,600 --> 00:13:23,620
+and it is one of the greatest Android junk cleaner out there.
+
+318
+00:13:23,616 --> 00:13:26,620
+"Welcome! SD Maid SE manages file, apps, and storage.
+
+319
+00:13:26,616 --> 00:13:29,570
+Gain storage space by cleaning up behind other apps.
+
+320
+00:13:29,566 --> 00:13:32,970
+Delete expendable files and remove leftover data."
+
+321
+00:13:32,966 --> 00:13:34,330
+So basically junk.
+
+322
+00:13:34,333 --> 00:13:36,850
+And let's get through the setup as per usual.
+
+323
+00:13:36,850 --> 00:13:41,250
+(Fast frowarding...)
+
+324
+00:13:41,250 --> 00:13:42,270
+There we go.
+
+325
+00:13:42,266 --> 00:13:43,730
+How simple was that?
+
+326
+00:13:43,733 --> 00:13:46,380
+So at the moment, the free tier of SD Maid SE
+
+327
+00:13:46,383 --> 00:13:49,930
+only allows you to clean basic amount of app cleaning.
+
+328
+00:13:49,933 --> 00:13:52,520
+So if you like to go thorough with your app cleaning,
+
+329
+00:13:52,516 --> 00:13:57,080
+you would like to get the Pro license.
+
+330
+00:13:58,766 --> 00:14:01,430
+Right. Let's go through some of the settings because
+
+331
+00:14:01,433 --> 00:14:03,880
+usually I like doing settings.
+
+332
+00:14:03,883 --> 00:14:07,100
+So I usually like uninstall watcher because
+
+333
+00:14:07,100 --> 00:14:08,400
+when I uninstall the application,
+
+334
+00:14:08,399 --> 00:14:11,830
+it will just take charge and clear up after myself.
+
+335
+00:14:11,833 --> 00:14:13,300
+I usually don't have much to lose
+
+336
+00:14:13,299 --> 00:14:17,750
+because I usually take my stuff out first before I uninstall them.
+
+337
+00:14:17,750 --> 00:14:20,620
+So I'm not really that careless.
+
+338
+00:14:20,616 --> 00:14:24,630
+And… make sure we clean up ourselves very thoroughly.
+
+339
+00:14:24,633 --> 00:14:26,250
+Right. System stuff.
+
+340
+00:14:26,250 --> 00:14:27,930
+Superfluous APKs.
+
+341
+00:14:27,933 --> 00:14:31,850
+Basically, APKs of apps which you already installed
+
+342
+00:14:31,850 --> 00:14:33,380
+and are just leftovers.
+
+343
+00:14:33,383 --> 00:14:34,250
+Trashed...
+
+344
+00:14:34,250 --> 00:14:36,070
+Screenshots... I like to leave that.
+
+345
+00:14:36,066 --> 00:14:37,120
+Pretty much most of it.
+
+346
+00:14:37,116 --> 00:14:40,580
+AppCleaner. One of the highlight features out there.
+
+347
+00:14:40,583 --> 00:14:44,280
+If you like cache yeeted out of your system apps as well.
+
+348
+00:14:44,283 --> 00:14:45,850
+You can totally turn that on.
+
+349
+00:14:45,850 --> 00:14:49,420
+And… if you have include inaccessible caches,
+
+350
+00:14:49,416 --> 00:14:53,980
+that means you allow yourself to turn on accessibility service
+
+351
+00:14:53,983 --> 00:14:57,330
+and use accessibility service to tap those buttons for you.
+
+352
+00:14:57,333 --> 00:14:59,270
+And what I mean by those buttons,
+
+353
+00:14:59,266 --> 00:15:02,070
+if you go into App Info, you go to Storage and Cache
+
+354
+00:15:02,066 --> 00:15:03,600
+and you click Clear Cache.
+
+355
+00:15:03,600 --> 00:15:05,230
+That's simple for one app.
+
+356
+00:15:05,233 --> 00:15:09,480
+But what if you have tens and maybe even hundred...
+
+357
+00:15:09,483 --> 00:15:10,480
+A hundred apps.
+
+358
+00:15:10,483 --> 00:15:12,700
+That's gonna drive you fucking crazy, doesn't it?
+
+359
+00:15:12,700 --> 00:15:16,700
+And this is what makes SD Maid SE super freaking useful.
+
+360
+00:15:16,700 --> 00:15:19,500
+It does all of that for you automatically.
+
+361
+00:15:19,500 --> 00:15:21,950
+Well, I wouldn't say fully automatically,
+
+362
+00:15:21,950 --> 00:15:24,500
+but on your demand automatically.
+
+363
+00:15:24,500 --> 00:15:26,330
+So it taps those buttons for you.
+
+364
+00:15:26,333 --> 00:15:28,030
+So you don't have to go crazy for that.
+
+365
+00:15:28,033 --> 00:15:29,600
+Bug reporting...
+
+366
+00:15:29,600 --> 00:15:30,880
+I would like to keep game files
+
+367
+00:15:30,883 --> 00:15:33,370
+because I do play games like Blue Archive.
+
+368
+00:15:33,366 --> 00:15:35,200
+Offline Cache... It would be very helpful
+
+369
+00:15:35,200 --> 00:15:38,070
+if I'm using Google Maps or something else.
+
+370
+00:15:38,066 --> 00:15:40,270
+Recycle Bin... Yeah, you can go.
+
+371
+00:15:40,266 --> 00:15:45,130
+And… Other chatting apps that I don't ever use.
+
+372
+00:15:45,133 --> 00:15:47,620
+Right. That looks fine to me...
+
+373
+00:15:47,616 --> 00:15:49,120
+That looks fine to me.
+
+374
+00:15:49,116 --> 00:15:50,920
+Right, let's go through each of them.
+
+375
+00:15:50,916 --> 00:15:52,280
+So what CorpseSFinder does is
+
+376
+00:15:52,283 --> 00:15:54,350
+when you've uninstalled an application
+
+377
+00:15:54,350 --> 00:15:57,370
+and there's bound to be shit left over.
+
+378
+00:15:57,366 --> 00:15:59,470
+So CorpseFinder is basically it.
+
+379
+00:15:59,466 --> 00:16:01,420
+And getting into SystemCleaner,
+
+380
+00:16:01,416 --> 00:16:05,020
+it basically clears out stuff in your system like empty folders
+
+381
+00:16:05,016 --> 00:16:09,430
+that are just there and it looks kind of an OCD mess to you.
+
+382
+00:16:09,433 --> 00:16:12,600
+Or maybe log files or other kinds of stuff.
+
+383
+00:16:12,600 --> 00:16:14,870
+And stuff that you have picked in your settings as well.
+
+384
+00:16:14,866 --> 00:16:17,380
+Like I said earlier, Superfluous APKs
+
+385
+00:16:17,383 --> 00:16:20,130
+We'll totally be chucking them out of the window.
+
+386
+00:16:20,133 --> 00:16:21,830
+And then App Cleaner, just like we said.
+
+387
+00:16:21,833 --> 00:16:24,120
+So caches that are inaccessible
+
+388
+00:16:24,116 --> 00:16:27,100
+are those that we click using Clear Cache.
+
+389
+00:16:27,100 --> 00:16:28,650
+And then those that are accessible are
+
+390
+00:16:28,649 --> 00:16:33,470
+those that SD Maid can reach through its available file access API,
+
+391
+00:16:33,466 --> 00:16:36,530
+or (known as) Storage Access Framework (SAF).
+
+392
+00:16:36,533 --> 00:16:39,820
+So when you press Delete, it will do that
+
+393
+00:16:39,816 --> 00:16:43,230
+and then it will do all of these for you.
+
+394
+00:16:43,233 --> 00:16:46,280
+Look at how quickly it does this job.
+
+395
+00:16:46,283 --> 00:16:49,070
+It's insane.
+
+396
+00:16:49,066 --> 00:16:50,380
+There are bound to be a few (left),
+
+397
+00:16:50,383 --> 00:16:53,350
+however those can't really be done.
+
+398
+00:16:53,350 --> 00:16:55,480
+Because if you go into those applications
+
+399
+00:16:55,483 --> 00:16:57,650
+they don't really have a Clear Cache button
+
+400
+00:16:57,649 --> 00:16:59,350
+or they have them grayed out.
+
+401
+00:16:59,350 --> 00:17:00,480
+Primarily because,
+
+402
+00:17:00,483 --> 00:17:03,100
+if you have turned on Include System Applications
+
+403
+00:17:03,100 --> 00:17:05,700
+you're bound to find some of these kinds of apps.
+
+404
+00:17:05,700 --> 00:17:08,070
+So there's really not much you can do with that.
+
+405
+00:17:08,066 --> 00:17:11,300
+No app can allow you to do that because this is system locked.
+
+406
+00:17:11,299 --> 00:17:12,580
+But that's perfectly fine.
+
+407
+00:17:12,583 --> 00:17:14,520
+You're already doing the most
+
+408
+00:17:14,516 --> 00:17:16,020
+and that's all that important.
+
+409
+00:17:16,016 --> 00:17:17,530
+But with that said,
+
+410
+00:17:17,533 --> 00:17:18,370
+that's done.
+
+411
+00:17:18,366 --> 00:17:19,320
+Eyyy~
+
+412
+00:17:19,316 --> 00:17:20,720
+"Spotless."
+
+413
+00:17:20,716 --> 00:17:22,880
+And once again, huge special thanks
+
+414
+00:17:22,883 --> 00:17:25,670
+to SD Maid SE for helping me out
+
+415
+00:17:25,666 --> 00:17:27,970
+and reviving my VTubing career
+
+416
+00:17:27,966 --> 00:17:30,730
+and check him out in the GitHub
+
+417
+00:17:30,733 --> 00:17:33,330
+or the Google Play link down in the description below.
+
+418
+00:17:33,333 --> 00:17:34,700
+And with that said,
+
+419
+00:17:34,700 --> 00:17:36,080
+OtsuMelo deshita (It's been ya girl, Mel).
+
+420
+00:17:36,083 --> 00:17:37,830
+Take care y'all!
+
+421
+00:17:37,833 --> 00:17:38,920
+Eek!
+
+422
+00:17:38,916 --> 00:17:40,130
+Oh! Oh!
+
+423
+00:17:40,133 --> 00:17:42,130
+Okay.
+
+424
+00:17:46,016 --> 00:17:48,920
+[Ko-fi] Thank you for supporting me financially!
+Members: StickTV, Xandra, Robi, Natalie, Aerostatik
+
+425
+00:17:48,916 --> 00:17:52,980
+[Ko-fi] Thank you for supporting me financially!
+Sponsor: SD Maid SE
+
+426
+00:17:52,983 --> 00:18:00,570
+[MeloriTensei 転性メロリ] Thank you for watching!
+Check out my other contents!
+
+427
+00:18:02,250 --> 00:18:04,720
+Kon-Melo, it's ya Tech Wizardes-blblyblbleh
+(Fumbling words)
+
+428
+00:18:04,716 --> 00:18:06,670
+Fuck!
+
+429
+00:18:06,666 --> 00:18:09,420
+Nat: Keep that at the outro.
+
+430
+00:18:09,783 --> 00:18:10,720
+Mel: Absolutely.
+
+431
+00:18:10,716 --> 00:18:12,320
+Nat: Just like a little, you know,
+
+432
+00:18:12,316 --> 00:18:14,780
+behind the scenes fumble.
+
+433
+00:18:14,783 --> 00:18:15,700
+Mel: Absolutely.
+
+434
+00:18:15,700 --> 00:18:17,170
+Fucking hell.
+
+435
+00:18:17,166 --> 00:18:20,350
+Oh wait, I forgot you haven't spoke in that part.
+(More bloopers as a members exclusive!)
+
+436
+00:18:20,349 --> 00:18:21,220
+Nat: Yeah?
+
+437
+00:18:21,216 --> 00:18:23,200
+Mel: Fuck!
+Nat: I was gonna say- (laughs)
+
+438
+00:18:23,200 --> 00:18:25,800
+Nat: Yeah, I was gonna say, when do I come in?
+Mel: Let's just-
+
+439
+00:18:25,799 --> 00:18:26,880
+Mel: Sorry!
+
+440
+00:18:26,883 --> 00:18:29,130
+I have to do a retake then. Fuck it.
+
+441
+00:18:29,133 --> 00:18:32,380
+Nat: All good, all good.
+Mel: Oh god...
+
