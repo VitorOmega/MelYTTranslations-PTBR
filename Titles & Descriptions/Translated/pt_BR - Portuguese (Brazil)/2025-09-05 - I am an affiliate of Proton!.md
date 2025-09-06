@@ -1,23 +1,16 @@
 # Title
-Como eu acabei no LineageOS
+Sou afiliada da Proton!
 
 # Description
-Titulo alternativo: Eu falhei em pegar GSIs no meu Galaxy Note 10 Plus, então eu peguei o LineageOS.
+Obrigado pelo seu apoio contínuo!
 
-Sim... esse titulo aqui e intencional. Eu fiquei frustrada.
+===Links de afiliados (Eles estarão mais abaixo na descrição no futuro!)===
+Proton Unlimited (Pacote tudo em um!): https://go.getproton.me/SH1uh
 
-Blog commentario: https://ko-fi.com/post/Early-Access-I-ended-up-in-LineageOS-But-why-P5P1151YW6
-
-===Patrocinador===
-Limpe suas tralhas do Android com SD Maid SE por Darken Development!
-Google Play: https://play.google.com/store/apps/details?id=eu.darken.sdmse
-GitHub: https://github.com/d4rken-org/sdmaid-se
-F-Droid: https://f-droid.org/en/packages/eu.darken.sdmse/
-
-===Recursos===
-LineageOS: https://lineageos.org/
-Lawnchair: https://lawnchair.app/
-Obtanium: https://obtainium.imranr.dev/
+Proton Mail: https://go.getproton.me/SH1eX
+Proton VPN: https://go.getproton.me/SH1tk
+Proton Drive: https://go.getproton.me/SH1cb
+Proton Pass: https://go.getproton.me/SH1tl
 
 Checar minha página para mais informação sobre mim! https://MeloriTensei.carrd.co/
 Quer ver mais blogs commentarios e videos em acesso antecipado? Checar meu Ko-Fi abaixo!
@@ -28,8 +21,10 @@ https://github.com/MeloriTensei-Community-Lab/MelYTTranslations/
 
 Se você quer que eu faça conteudo melhor, favor considere me dando suporte financeiro abaixo.
 ===Suporte me abaixo===
-Throne (Presentes): https://thrn.co/u/MeloriTensei/
 Ko-fi (Acesso Antecipado e Blog do Editor): https://ko-fi.com/MeloriTensei/
+YouTube (Seja Membro e Super Chat*): https://www.youtube.com/@MeloriTensei/join/
+Throne (Presentes): https://thrn.co/u/MeloriTensei/
 
+*Doações de Assinaturas do YT e Supers não serão contabilizadas na meta de doações do Ko-fi para facilitar a contabilização. Desculpe!
 [NOTE]
 A DOAR, VOCÊ CONCORDA EM NÃO PEDIR UMA SOLICITAÇÃO DE ESTORNO. NÃO VAI TER REEMBOLSO E TRANSAÇÕES SÃO FINAIS.
